@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  height: 90vh;
+  background: url('https://via.placeholder.com/1200x600') no-repeat center center/cover;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+footer {
+  margin-top: 20px;
+}
